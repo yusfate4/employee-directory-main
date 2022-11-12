@@ -5,6 +5,7 @@
     margin-top: 150px;
     margin-bottom: 150px;
 }
+
 .employee_directory{
     width: 90%;
     margin: 0 auto;
@@ -53,6 +54,7 @@ form.search_form i{
     border-radius: 5px;
     text-align: center;
     width: 100%;
+    
 }
 .employee_listing .employee img{
     width: 100px;
@@ -108,6 +110,7 @@ form.search_form i{
     .employee_listing .employee{
         width: 320px;
     }
+
     
 }
 
